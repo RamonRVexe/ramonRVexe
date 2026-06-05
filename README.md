@@ -9,9 +9,11 @@ Full Stack Developer | .NET | Angular | SQL Server | APIs REST
 Desarrollando soluciones escalables, automatizando procesos y construyendo plataformas empresariales de alto rendimiento.
 </p>
 
-<p align="center">
-🌐 <b>Portafolio:</b> <a href="https://ramonrivera.dev/">ramonrivera.dev</a>
-</p>
+## 🌐 Portafolio Profesional
+
+Visita mi sitio web para conocer más sobre mi experiencia, proyectos y trayectoria profesional:
+
+👉 https://ramonrivera.dev/
 
 <p align="center">
 <a href="https://github.com/RamonRVexe">
@@ -142,6 +144,12 @@ Plataforma de validación mediante:
 ---
 
 ## 🌐 Contacto
+
+<p align="center">
+<a href="https://ramonrivera.dev/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-ramonrivera.dev-0A66C2?style=for-the-badge" />
+</a>
+</p>
 
 <p align="left">
 <a href="https://facebook.com/ramon.riveravalenzuela">
