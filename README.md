@@ -88,17 +88,6 @@ Apasionado por el desarrollo de software, la automatización de procesos y la cr
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RamonRVexe&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRVexe&layout=compact&theme=dracula&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RamonRVexe&theme=dracula&hide_border=true"/>
-</p>
 
 ---
 
