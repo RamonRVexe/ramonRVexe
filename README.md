@@ -10,14 +10,15 @@ Desarrollando soluciones escalables, automatizando procesos y construyendo plata
 </p>
 
 <p align="center">
+🌐 <b>Portafolio:</b> <a href="https://ramonrivera.dev/">ramonrivera.dev</a>
+</p>
+
+<p align="center">
 <a href="https://github.com/RamonRVexe">
 <img src="https://komarev.com/ghpvc/?username=RamonRVexe&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </a>
 </p>
 
-<p align="center">
-🌐 <b>Portafolio:</b> <a href="https://ramonrivera.dev/">ramonrivera.dev</a>
-</p>
 
 ---
 
