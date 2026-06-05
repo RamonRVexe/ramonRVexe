@@ -171,31 +171,39 @@ public class RamonRivera
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Proyectos Destacados
 
-### 🎓 Educational Credit Platform
+### 🎓 Plataforma de Crédito Educativo
 
-Enterprise platform built with Angular, ASP.NET and SQL Server.
+Plataforma institucional desarrollada con Angular, ASP.NET y SQL Server para la gestión integral de créditos educativos
 
-- Multi-step forms
-- Workflow automation
-- Educational credit management
-- Status tracking
-- Document management
+Características principales:
 
-### 🎫 QR Access Validation System
+Formularios multipaso
+Automatización de flujos de trabajo
+Gestión de solicitudes de crédito
+Renovaciones de crédito
+Seguimiento de estatus
+Gestión documental
+Integración con servicios institucionales
 
-Real-time QR and barcode validation platform.
+### 🎫 Sistema de Control y Validación de Accesos
 
-- QR validation
-- Real-time verification
-- Auditing
-- SQL Server integration
-- Event management
+Plataforma de validación mediante códigos QR y códigos de barras con verificación en tiempo real.
+
+Características principales:
+
+Validación mediante códigos QR
+Verificación en tiempo real
+Auditoría de accesos
+Integración con SQL Server
+Gestión de eventos
+Generación de reportes
+Seguimiento de asistentes
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Conecta Conmigo
 
 <p align="center">
 
@@ -215,18 +223,14 @@ Real-time QR and barcode validation platform.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://tiktok.com/@spark17__">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-# 📫 Open To
+# 📫 Disponible Para
 
-- Full Stack Developer
-- .NET Developer
+- Desarrollador Full Stack
+- Desarrollador .NET
 - Backend Developer
 - Software Engineer
 
