@@ -14,7 +14,7 @@ Apasionado por el desarrollo de software, la automatización de procesos y la cr
 
 💼 Actualmente desarrollo sistemas para el Instituto de Becas y Crédito Educativo del Estado de Sonora.
 
-🖥️ Especializado en desarrollo Full Stack con Angular, Laravel, Python y SQL Server.
+🖥️ Especializado en desarrollo Full Stack con Angular, Laravel, .NET, Python y SQL Server.
 
 ⚡ Me gusta construir aplicaciones modernas, APIs robustas y automatizar procesos para mejorar la productividad.
 
@@ -22,7 +22,7 @@ Apasionado por el desarrollo de software, la automatización de procesos y la cr
 
 🎨 También disfruto el diseño UI/UX utilizando Figma y Photoshop.
 
-📚 Actualmente explorando nuevas tecnologías como React, .NET y arquitecturas modernas en la nube.
+📚 Actualmente explorando nuevas tecnologías como React y arquitecturas modernas en la nube.
 
 🎮 En mi tiempo libre creo contenido, hago streaming y experimento con nuevos proyectos.
 
